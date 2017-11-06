@@ -1,0 +1,10 @@
+$gitinit  //intialize local git repository
+$gitadd<file> //Add file(s) to index
+$gitstatus // check status of working tree
+$gitcommit // commit changes in index
+$gitpush // push to remote repository
+$git pull // pull latest from remote repository
+$git clone // clone repository into a new directory
+ 
+
+https://github.com/shivanand789/selenium.git
