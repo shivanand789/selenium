@@ -1,0 +1,34 @@
+I have stabilized BAT suite by adding reusables and removing dependency
+-I have taken reponsibility on  my own and added the reusables which takes the server IP's from the script parameters dynamically which was not taken care in the existing framework  and made the scripts to run via matrix.
+-I have added entry and exit criteria for the indiviual scripts.
+
+I have intiated automation  of modules like scitex onebit,Spotcolor and Mediamapping cases.
+
+I have added reusables in the existing framework.
+
+I could have communicated more with other teams.
+
+I could have initiated the review process more effectively for test scripts.
+
+I could have involved in product roadmap to reduce the maintenance of test scripts for N+1 builds.
+
+S
+
+I have stabilized BAT suite by adding reusables and removing dependency
+
+I am keen to increase automation coverage.
+
+I have interacted with installer and development team to get the builds as per the plan.
+
+I have interacted with localization team extensively during Build qualification.
+
+I assisted team members to debug and execution.
+
+Tasks which I have been assigned and what I am carrying out is visible to team members and managers.
+
+I have added reusables to existing framework.
+
+
+
+
+
